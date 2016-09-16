@@ -74,11 +74,7 @@ function my_theme_register_required_plugins() {
             'required'           => false,
         ),
 
-        array(
-            'name'               => 'Current Menu Item for Custom Post Types',
-            'slug'               => 'current-menu-item-for-custom-post-types',
-            'required'           => false,
-        ),
+
 
 
     );
