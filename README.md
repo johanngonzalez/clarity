@@ -1,2 +1,3 @@
-# clarity
-Clarity Wordpress Theme
+# Clarity
+
+Clarity is a starter Wordpress theme based on Twitter Bootstrap.
